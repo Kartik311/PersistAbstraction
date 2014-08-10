@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<persist-config>
+	<persist-factory>
+		<property name="persist.connection.driver">com.mysql.jdbc.Driver</property>
+		<property name="persist.connection.url">jdbc:mysql://localhost:3306/sc2</property>
+		<property name="persist.connection.username">root</property>
+		<property name="persist.connection.password">KartikK1</property>
+	</persist-factory>
+</persist-config>
