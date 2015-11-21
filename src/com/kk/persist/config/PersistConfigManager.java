@@ -16,7 +16,7 @@ import org.xml.sax.SAXException;
 import org.xml.sax.helpers.DefaultHandler;
 
 /**
- * @author Kartikeya
+ * @author Kartikeya K.
  *
  */
 public class PersistConfigManager extends DefaultHandler {
