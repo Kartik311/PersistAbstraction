@@ -180,6 +180,10 @@ public final class DBConnectionImpl implements DBConnection {
 		return listVO;
 	}
 	
+	/**
+	 * @param name
+	 * @return
+	 */
 	private String createGetter(String name){
 		char c = name.charAt(0);
 		c = java.lang.Character.toUpperCase(c);
